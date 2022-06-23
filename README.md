@@ -14,7 +14,7 @@ This website automatically deploys on [Github Pages](https://alfreddo.ga) and is
   <img src="https://cdn.discordapp.com/attachments/745937151094423642/989631276082425886/chrome_3RzbClOVi4.png" />
 </p>
 
-> Hello-Bye-Cya-Goodbye / Cookie-Cake-Pizza-Burger etc.
+> Search for your GitHub profile infos, enter your GitHub username in the search bar!
 
 ### 🧬 Technologies:
 
