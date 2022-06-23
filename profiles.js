@@ -12,7 +12,7 @@ async function getUser(username) {
         getRepos(username)
     } catch(err) {
         if(err.response.status == 404) {
-            createErrorCard('Oops! Probably 404')
+            createErrorCard('Oops! Probably 404 here?!')
         }
     }
 }
@@ -23,7 +23,7 @@ async function getRepos(username) {
 
         addReposToCard(data)
     } catch(err) {
-        createErrorCard('Problem fetching repo(s)')
+        createErrorCard('Problem while fetching repo(s)')
     }
 }
 
@@ -41,7 +41,7 @@ function createUserCard(user) {
       <ul>
         <li>${user.followers} <strong>Followers</strong></li>
         <li>${user.following} <strong>Following</strong></li>
-        <li>${user.public_repos} <strong>Repos</strong></li>
+        <li>${user.public_repos} <strong>Repositories</strong></li>
       </ul>
       <div id="repos"></div>
     </div>
