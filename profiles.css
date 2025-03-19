@@ -30,7 +30,7 @@ body {
       -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     border-radius: 8px;
-  color: #EB459E;
+  color: #14532d;
   padding: 1rem;
   margin-bottom: 2rem;
   font-family: inherit;
@@ -58,7 +58,7 @@ body {
 
 .avatar {
   border-radius: 50%;
-  border: 5px solid #EB459E;
+  border: 3px solid #14532d;
   height: 150px;
   width: 150px;
 }
@@ -93,7 +93,7 @@ body {
 .repo {
   text-decoration: none;
   color: #000;
-  background-color: #EB459E;
+  background-color: #14532d;
   font-size: 0.7rem;
   padding: 0.25rem 0.5rem;
   margin-right: 0.5rem;
@@ -115,5 +115,5 @@ body {
   }
 }
 ::selection {
-  background: #EB459E;
+  background: #14532d;
 }
