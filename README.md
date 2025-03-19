@@ -15,4 +15,4 @@ A sleek and user-friendly GitHub profile viewer. Just enter a username and insta
 
 # Contributing
 
-Feel free to further customize and enhance this template to match your project's structure and branding. You can add sections for installation instructions, usage examples, and any other relevant information. Good luck with your AtaturkQuoteBot project! 
+Feel free to further customize and enhance this template to match your project's structure and branding. You can add sections for installation instructions, usage examples, and any other relevant information.
