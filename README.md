@@ -1,3 +1,7 @@
+  <div style="flex: 1;">
+    <img style="max-width: 100%; width: 100%" src="@/profiles.gif" alt="GIF">
+  </div>
+
 # /profiles
 
 A sleek and user-friendly GitHub profile viewer. Just enter a username and instantly get the details in a clean and simple way!  
