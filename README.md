@@ -9,11 +9,7 @@ A sleek and user-friendly GitHub profile viewer. Just enter a username and insta
 ## 🚀 Features  
 - Fetches GitHub user details instantly  
 - Clean and easy-to-use interface  
-- No clutter, just the info you need  
-
-## 🔧 Usage  
-1. Enter a GitHub username  
-2. View profile details instantly  
+- No clutter, just the info you need   
 
 🎯 Simple, fast, and efficient—give it a try!
 
