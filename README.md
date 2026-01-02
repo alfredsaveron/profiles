@@ -1,5 +1,5 @@
   <div style="flex: 1;">
-    <img style="max-width: 100%; width: 100%" src="@/profiles.gif" alt="GIF">
+    <img style="max-width: 100%; width: 100%" src="/profiles.gif" alt="GIF">
   </div>
 
 # /profiles
